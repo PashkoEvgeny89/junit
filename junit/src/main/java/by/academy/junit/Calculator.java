@@ -13,5 +13,7 @@ public class Calculator {
 	public static int getMultiple(int x, int y) {
 		return x*y;
 	}
+	
+	System.out.println("ok pull");
 
 }
